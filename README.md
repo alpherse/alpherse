@@ -1,3 +1,4 @@
+<div id="header" align="center">
 # ❤️ Hi, I'm Maki
 ### The most promisin' player in the world
 
@@ -8,7 +9,7 @@
 
 ## 🌐 Works:
 <a href="https://t.me/actirki_nor">Актировки inc</a>
-
+</div>
 <!--
 **alpherse/alpherse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
